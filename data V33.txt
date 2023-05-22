@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"BeamNG.drive is a groundbreaking vehicle simulation game that has taken the gaming community by storm. Developed by BeamNG GmbH, ","photo2":"https://iili.io/HgSuzUF.png"},
+  {"desc3":"BeamNG.drive is a groundbreaking vehicle simulation game that has taken the gaming community by storm. Developed by BeamNG GmbH, ","photo3":"https://iili.io/HgSuqoQ.jpg"},
+  {"desc4":"nlike many other driving games, which often rely on scripted animations and predetermined outcomes","photo4":"https://iili.io/HgSuCiB.jpg"},
+  {"desc5":"BeamNG.drive utilizes a dynamic physics engine that realistically simulates the behavior of vehicles in real-time. ","photo5":"https://iili.io/HgSuBVV.jpg"},
+  {"descd":"Every component of the vehicle, from the engine and suspension to the chassis and tires, is modeled with meticulous attention to detail, resulting in unparalleled realism and authenticity.","photod":"https://iili.io/HgSuxl1.webp"}
    ]
  
 }
